@@ -17,6 +17,8 @@ import {
   Sparkles,
   X,
 } from "lucide-react"
+import { Calendar } from '@/components/calendar/calendar';
+import { CalendarProvider } from '@/context/calendar-context';
 
 export default function Home() {
   const [isLoaded, setIsLoaded] = useState(false)

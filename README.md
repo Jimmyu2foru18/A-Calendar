@@ -1,27 +1,26 @@
-# Interactive Calendar App
+# Calendar - Practice Web Application
 
-A modern, interactive calendar application built with Next.js, TypeScript, and Tailwind CSS.
+A simple calendar web application built with Next.js, React, and Tailwind CSS.
 
 ## 🌟 Features
 
+- Interactive calendar interface
+- Date selection and navigation
 - Modern UI with shadcn/ui components
 - Dark/Light theme support
 - Responsive design for all devices
-- Interactive calendar with event management
-- Toast notifications
 
 ## 🔗 Live Demo
 
-Check out the live demo: [Interactive Calendar App](https://jimmyu2foru18.github.io/A-Calendar/)
+Check out the live demo: [Calendar Practice App](https://jimmyu2foru18.github.io/A-Calendar/)
 
 ## 🚀 Technologies Used
 
-- [Next.js 15](https://nextjs.org/)
-- [React 19](https://react.dev/)
+- [Next.js](https://nextjs.org/)
+- [React](https://react.dev/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [shadcn/ui](https://ui.shadcn.com/)
-- [Radix UI](https://www.radix-ui.com/)
 - [date-fns](https://date-fns.org/)
 
 ## 📋 Getting Started
