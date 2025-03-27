@@ -8,7 +8,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "Calendar - Practice Web Application",
-  description: "Calendar practice web application",
+  description: "Calendar practice web application for scheduling and organizing events",
   generator: 'v0.dev'
 }
 
