@@ -9,6 +9,7 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata: Metadata = {
   title: "Calendar - Practice Web Application",
   description: "Calendar practice web application",
+  generator: 'v0.dev'
 }
 
 export default function RootLayout({
